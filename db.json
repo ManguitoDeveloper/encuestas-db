@@ -1,0 +1,42 @@
+[
+    {
+        "id": "3e14730fcf0a4faaa84d2d5abf82aa5d",
+        "name": "Caroline Wolf",
+        "img": "nft1.png",
+        "rarity": 1,
+        "iq": 65,
+        "value": 16
+    },
+    {
+        "id": "0636e3b0408a427b8bc279c597517a95",
+        "name": "Marcus Mayer",
+        "img": "nft2.png",
+        "rarity": 2,
+        "iq": 65,
+        "value": 34
+    },
+    {
+        "id": "2a79b98ed31f49b19d0c9f7b7c6f9d6f",
+        "name": "Beatriz Swanson",
+        "img": "nft3.png",
+        "rarity": 3,
+        "iq": 82,
+        "value": 75
+    },
+    {
+        "id": "6a06eab83e5e472699c0d304f7b63ca4",
+        "name": "Theodora North",
+        "img": "nft4.png",
+        "rarity": 4,
+        "iq": 104,
+        "value": 141
+    },
+    {
+        "id": "1fba82a6cb134739ba119065a7bfbc8c",
+        "name": "Austin Beckham",
+        "img": "nft5.png",
+        "rarity": 5,
+        "iq": 124,
+        "value": 240
+    }
+]
