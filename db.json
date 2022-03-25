@@ -1,4 +1,14 @@
-[
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "freshers": [
    {
       "id": "3e14730fcf0a4faaa84d2d5abf82aa5d",
       "name": "Caroline Wolf",
@@ -40,3 +50,4 @@
       "value": 240
    }
 ]
+}
