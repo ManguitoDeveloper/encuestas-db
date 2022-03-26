@@ -10,7 +10,7 @@
   },
   "freshers": [
    {
-      "id": "3e14730fcf0a4faaa84d2d5abf82aa5d",
+      "id": "3e14730fcf0a4faaa84d2d",
       "name": "Caroline Wolf",
       "img": "https://raw.githubusercontent.com/ManguitoDeveloper/test-db/main/freshers/fresher1.png",
       "rarity": 1,
@@ -19,7 +19,7 @@
       "value": 16
    },
    {
-      "id": "0636e3b0408a427b8bc279c597517a95",
+      "id": "0636e3b0408a427b8bc279",
       "name": "Marcus Mayer",
       "img": "https://raw.githubusercontent.com/ManguitoDeveloper/test-db/main/freshers/fresher2.png",
       "rarity": 2,
@@ -28,7 +28,7 @@
       "value": 34
    },
    {
-      "id": "2a79b98ed31f49b19d0c9f7b7c6f9d6f",
+      "id": "2a79b98ed31f49b19d0c9f",
       "name": "Beatriz Swanson",
       "img": "https://raw.githubusercontent.com/ManguitoDeveloper/test-db/main/freshers/fresher3.png",
       "rarity": 3,
@@ -37,7 +37,7 @@
       "value": 75
    },
    {
-      "id": "6a06eab83e5e472699c0d304f7b63ca4",
+      "id": "6a06eab83e5e472699c0d3",
       "name": "Theodora North",
       "img": "https://raw.githubusercontent.com/ManguitoDeveloper/test-db/main/freshers/fresher4.png",
       "rarity": 4,
@@ -46,7 +46,7 @@
       "value": 141
    },
    {
-      "id": "1fba82a6cb134739ba119065a7bfbc8c",
+      "id": "1fba82a6cb134739ba1190",
       "name": "Austin Beckham",
       "img": "https://raw.githubusercontent.com/ManguitoDeveloper/test-db/main/freshers/fresher5.png",
       "rarity": 5,
