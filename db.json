@@ -35,24 +35,6 @@
       "iq": 82,
       "cheats": 4,
       "value": 75
-   },
-   {
-      "id": "6a06eab83e5e47269",
-      "name": "Theodora North",
-      "img": "https://raw.githubusercontent.com/ManguitoDeveloper/test-db/main/freshers/fresher2.png",
-      "rarity": 2,
-      "iq": 104,
-      "cheats": 5,
-      "value": 141
-   },
-   {
-      "id": "1fba82a6cb134739b",
-      "name": "Austin Beckham",
-      "img": "https://raw.githubusercontent.com/ManguitoDeveloper/test-db/main/freshers/fresher2.png",
-      "rarity": 2,
-      "iq": 124,
-      "cheats": 7,
-      "value": 240
    }
 ]
 }
