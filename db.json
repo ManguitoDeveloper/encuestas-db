@@ -45,5 +45,105 @@
 			"idSegmento": null,
 			"descripcionSegmento": null
 		}
+	],
+	"headers": [
+		{
+			"id": 205,
+			"idPadre": 200,
+			"descripcion": "Identificacion",
+			"alias": "identificacion",
+			"ancho": 100,
+			"largo": 40,
+			"orden": 10,
+			"colorFondo": "#001529",
+			"colorTexto": "#677f91",
+			"tipoDato": "ID",
+			"alinear": "C",
+			"numeroFila": "10,20,100,0"
+		},
+		{
+			"id": 210,
+			"idPadre": 200,
+			"descripcion": "Institución",
+			"alias": "nombre",
+			"ancho": 200,
+			"largo": 40,
+			"orden": 20,
+			"colorFondo": "#001529",
+			"colorTexto": "#677f91",
+			"tipoDato": "C",
+			"alinear": "J",
+			"numeroFila": "10,20,100,0"
+		},
+		{
+			"id": 215,
+			"idPadre": 200,
+			"descripcion": "Razon Social",
+			"alias": "abreviatura",
+			"ancho": 200,
+			"largo": 40,
+			"orden": 30,
+			"colorFondo": "#001529",
+			"colorTexto": "#677f91",
+			"tipoDato": "C",
+			"alinear": "J",
+			"numeroFila": "10,20,100,0"
+		},
+		{
+			"id": 220,
+			"idPadre": 200,
+			"descripcion": "Fecha Creación",
+			"alias": "fechaCreacionInstitucion",
+			"ancho": 100,
+			"largo": 40,
+			"orden": 40,
+			"colorFondo": "#001529",
+			"colorTexto": "#677f91",
+			"tipoDato": "D",
+			"alinear": "C",
+			"numeroFila": "10,20,100,0"
+		},
+		{
+			"id": 225,
+			"idPadre": 200,
+			"descripcion": "Tipo Organización",
+			"alias": "descripcionTipoOrganizacion",
+			"ancho": 100,
+			"largo": 40,
+			"orden": 50,
+			"colorFondo": "#001529",
+			"colorTexto": "#677f91",
+			"tipoDato": "C",
+			"alinear": "C",
+			"numeroFila": "10,20,100,0"
+		},
+		{
+			"id": 230,
+			"idPadre": 200,
+			"descripcion": "Secmento",
+			"alias": "descripcionSegmento",
+			"ancho": 100,
+			"largo": 40,
+			"orden": 60,
+			"colorFondo": "#001529",
+			"colorTexto": "#677f91",
+			"tipoDato": "C",
+			"alinear": "L",
+			"numeroFila": "10,20,100,0"
+		},
+		{
+			"id": 240,
+			"idPadre": 200,
+			"descripcion": "Estado",
+			"alias": "descripcionEstado",
+			"ancho": 80,
+			"largo": 40,
+			"orden": 70,
+			"colorFondo": "#001529",
+			"colorTexto": "#677f91",
+			"tipoDato": "C",
+			"alinear": "C",
+			"numeroFila": "10,20,100,0"
+		}
 	]
 }
