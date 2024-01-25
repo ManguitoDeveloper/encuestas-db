@@ -1,40 +1,49 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "freshers": [
-   {
-      "id": "3e14730fcf0a4faaa",
-      "name": "Caroline Wolf",
-      "img": "https://raw.githubusercontent.com/ManguitoDeveloper/test-db/main/freshers/fresher1.png",
-      "rarity": 1,
-      "iq": 65,
-      "cheats": 1,
-      "value": 16
-   },
-   {
-      "id": "0636e3b0408a427b8",
-      "name": "Marcus Mayer",
-      "img": "https://raw.githubusercontent.com/ManguitoDeveloper/test-db/main/freshers/fresher2.png",
-      "rarity": 2,
-      "iq": 65,
-      "cheats": 2,
-      "value": 34
-   },
-   {
-      "id": "2a79b98ed31f49b19",
-      "name": "Beatriz Swanson",
-      "img": "https://raw.githubusercontent.com/ManguitoDeveloper/test-db/main/freshers/fresher3.png",
-      "rarity": 3,
-      "iq": 82,
-      "cheats": 4,
-      "value": 75
-   }
-]
+	"instituciones": [
+		{
+			"id": 2,
+			"idEstado": 1,
+			"descripcionEstado": "Activo",
+			"nombre": "Cooperativa Andalucioa",
+			"abreviatura": "ANDALUCIOA",
+			"fechaCreacionInstitucion": "2023-05-23T05:00:00.000+00:00",
+			"pagina_web": null,
+			"correo": null,
+			"identificacion": "1718937392001",
+			"idTipoOrganizacion": null,
+			"descripcionTipoOrganizacion": null,
+			"idSegmento": null,
+			"descripcionSegmento": null
+		},
+		{
+			"id": 3,
+			"idEstado": 1,
+			"descripcionEstado": "Activo",
+			"nombre": "Cooperativa Pichincha",
+			"abreviatura": "Pichicncha",
+			"fechaCreacionInstitucion": "1983-01-12T05:00:00.000+00:00",
+			"pagina_web": null,
+			"correo": null,
+			"identificacion": "1718937392001",
+			"idTipoOrganizacion": null,
+			"descripcionTipoOrganizacion": null,
+			"idSegmento": null,
+			"descripcionSegmento": null
+		},
+		{
+			"id": 1,
+			"idEstado": 1,
+			"descripcionEstado": "Activo",
+			"nombre": "Desarrollo de Systemas",
+			"abreviatura": "DISYSCORP",
+			"fechaCreacionInstitucion": "2024-01-24T05:00:00.000+00:00",
+			"pagina_web": null,
+			"correo": null,
+			"identificacion": "1718937392",
+			"idTipoOrganizacion": null,
+			"descripcionTipoOrganizacion": null,
+			"idSegmento": null,
+			"descripcionSegmento": null
+		}
+	]
 }
