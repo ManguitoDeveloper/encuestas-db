@@ -262,7 +262,9 @@
 			"extension": "657",
 			"idComboAreaTrabajo": 1004,
 			"descripcionComboAreaTrabajo": "Auditoría",
-			"cargo": "Sistemas"
+			"cargo": "Sistemas",
+			"identificacion": "1718937392001",
+			"idTipoOrganizacion": null
 		},
 		{
 			"id": 3,
@@ -281,7 +283,9 @@
 			"extension": "511",
 			"idComboAreaTrabajo": 1003,
 			"descripcionComboAreaTrabajo": "Atención al Cliente",
-			"cargo": "Gerente"
+			"cargo": "Gerente",
+			"identificacion": "1718937392001",
+			"idTipoOrganizacion": null
 		}
 	]
 }
