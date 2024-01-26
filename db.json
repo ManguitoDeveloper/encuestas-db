@@ -264,7 +264,7 @@
 			"descripcionComboAreaTrabajo": "Auditoría",
 			"cargo": "Sistemas",
 			"identificacion": "1718937392001",
-			"idTipoOrganizacion": null
+			"idTipoIdentificacion": 0
 		},
 		{
 			"id": 3,
@@ -284,8 +284,8 @@
 			"idComboAreaTrabajo": 1003,
 			"descripcionComboAreaTrabajo": "Atención al Cliente",
 			"cargo": "Gerente",
-			"identificacion": "1718937392001",
-			"idTipoOrganizacion": null
+			"identificacion": "667893921",
+			"idTipoIdentificacion": 1
 		}
 	]
 }
