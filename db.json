@@ -265,7 +265,8 @@
 			"cargo": "Sistemas",
 			"identificacion": "1718937392001",
 			"idTipoIdentificacion": "0",
-			"correo": "uysuuuf@gmail.com"
+			"correo": "uysuuuf@gmail.com",
+			"idEstado": "1"
 		},
 		{
 			"id": 3,
@@ -287,7 +288,8 @@
 			"cargo": "Gerente",
 			"identificacion": "667893921",
 			"idTipoIdentificacion": "1",
-			"correo": "ghkaskads@gmail.com"
+			"correo": "ghkaskads@gmail.com",
+			"idEstado": "0"
 		}
 	]
 }
